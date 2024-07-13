@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumildholakiya
 - 👀 I’m interested in business 
-- 🌱 I’m currently learning c language 
+- 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 📨sumildholakiya06@gmail.com
 
